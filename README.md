@@ -11,7 +11,7 @@ Build a production-ready ML pipeline to predict customer churn using Scikit-Lear
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Train the model: `python churn_pipeline.py`
-3. Run a prediction: `python predict.py`
+3. Run a prediction: `python app.py`
 
 ## Dataset
 Telco Customer Churn Dataset 
